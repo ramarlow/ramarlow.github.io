@@ -2,6 +2,11 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: "dark"
 
+locale                   : "en-US"
+title                    : "Robert Marlow"
+title_separator          : "-"
+subtitle                 : "Robotics Enthusiast"
+
 author:
   name             : "Robert Marlow"
   avatar           : # none for now
