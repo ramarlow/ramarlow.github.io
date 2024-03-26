@@ -8,7 +8,7 @@ permalink: /
 #        - label: "Résumé"
 #          url: "https://ramarlow.github.io/resume"
 intro:
-  - excerpt: #"\nHello, I'm Robert. I'm currently studying mechanical engineering at UW-Madison."
+  - excerpt: #"\nHello, I'm Robert. I'm currently a mechanical engineering undergrad at UW-Madison."
 feature_row_0:
   - image_path: /assets/images/triton.svg
     image_caption: "Summer 2023"
@@ -28,7 +28,7 @@ feature_row_1:
   - image_path: /assets/images/arm.png
     image_caption: "Fall 2021-2022"
     title: "Humanoid Robotic Arm"
-    excerpt: "Also as part of Wisconsin Robotics, this project's goal was mostly to move around and look cool. The first iteration was built almost entirely out of parts we salvaged from old projects, which pretty severely limited its strength and our design choices."
+    excerpt: "Also as part of Wisconsin Robotics, this project's goal was mostly to move around, interact with people or objects, and look cool."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
