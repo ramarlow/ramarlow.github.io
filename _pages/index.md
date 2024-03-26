@@ -11,19 +11,22 @@ intro:
   - excerpt: #"\nHello, I'm Robert. I'm currently studying mechanical engineering at UW-Madison."
 feature_row_0:
   - image_path: /assets/images/triton.svg
+    image_caption: "Summer 2023"
     title: "Triton Robotics Internship"
-    excerpt: ""
+    excerpt: "[Triton](https://tritonrobotics.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to help out there over the summer of 2023, and helped design and implement tests and equipment for use with flexible composite medical catheters."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
 feature_row_1:
   - image_path: /assets/images/arm.png
+    image_caption: "Fall 2021-2022"
     title: "Humanoid Robotic Arm"
     excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
-  - image_path: #TODO
+  - image_path: /assets/images/battlebot.png
+    image_caption: "Spring 2023-2024"
     title: "Mini Battlebots"
     excerpt: ""
     url: "#test-link"
@@ -31,20 +34,23 @@ feature_row_1:
     btn_class: "btn--warning"
 feature_row_2:
   - image_path: /assets/images/signal.jpg
+    image_caption: "Fall 2021-2023"
     title: "Turn Signal Light"
-    excerpt: ""
+    excerpt: "This project was originally the product of a semester-long design prompt to make something interesting using a microcontroller. It consists of some LEDs stuck to my hand that I can light up in different patterns to signal turns when bicycling at night."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
   - image_path: /assets/images/go_robot.jpg
+    image_caption: "Fall 2023"
     title: "Go Playing Robot"
-    excerpt: ""
+    excerpt: "As our Intro to Robotics final project, I worked with two classmates to build attachments and write control code allowing an off-the-shelf robotic arm to play the board game Go. It was a great opportunity to get practice using ROS (Robot Operating System), inverse kinematics, and computer vision, major topics covered in the course."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
-  - image_path: #TODO
+  - image_path: /assets/images/trolley.jpg
+    image_caption: "Fall 2021"
     title: "Autonomous Trolley"
-    excerpt: ""
+    excerpt: "The Intro to Mechanical Engineering course focused around building an obstacle-avoiding trolley using an Arduino and custom gearbox."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
