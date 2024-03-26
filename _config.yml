@@ -3,16 +3,16 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 include: ["_pages"]
 
-locale                   : "en-US"
-title                    : "Robert Marlow"
-title_separator          : "-"
-subtitle                 : "Robotics Enthusiast"
+locale: "en-US"
+title: "Robert Marlow"
+title_separator: "|"
+subtitle: "Robotics Enthusiast"
 
 author:
-  name             : "Robert Marlow"
-  avatar           : # none for now
-  bio              : "Mechanical Engineering Student at UW-Madison"
-  location         : "Palo Alto | Madison"
+  name: "Robert Marlow"
+  avatar: # none for now
+  bio: "Mechanical Engineering Student at UW-Madison"
+  location: "Palo Alto | Madison"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -23,7 +23,22 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/robert-marlow-301779222/"
-      
+
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rob.a.marlow@wisc.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ramarlow"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/robert-marlow-301779222/"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
