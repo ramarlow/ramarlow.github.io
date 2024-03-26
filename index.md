@@ -2,7 +2,7 @@
 title: Hello
 layout: splash
 header:
-    overlay_color: "#D27D2D"
+    overlay_color: "#cc5500"
     actions:
         - label: "Résumé"
           url: "https://ramarlow.github.io/resume"
