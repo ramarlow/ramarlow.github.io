@@ -2,13 +2,12 @@
 title: Hello
 layout: splash
 permalink: /
-#header:
-#    overlay_color: "#cc5500"
-#    actions:
-#        - label: "Résumé"
-#          url: "https://ramarlow.github.io/resume"
-intro:
-  - excerpt: #"\nHello, I'm Robert. I'm currently a mechanical engineering undergrad at UW-Madison."
+header:
+    overlay_color: "#cc5500"
+    actions:
+        - label: "Résumé"
+          url: "https://ramarlow.github.io/resume"
+excerpt: "I'm Robert. I'm currently a mechanical engineering undergrad at UW-Madison."
 feature_row_0:
   - image_path: /assets/images/triton.svg
     image_caption: "Summer 2023"
