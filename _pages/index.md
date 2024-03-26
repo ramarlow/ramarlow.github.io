@@ -1,6 +1,7 @@
 ---
 title: Hello
 layout: splash
+permalink: /
 #header:
 #    overlay_color: "#cc5500"
 #    actions:
