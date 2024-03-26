@@ -7,7 +7,7 @@ layout: splash
 #        - label: "Résumé"
 #          url: "https://ramarlow.github.io/resume"
 intro:
-  - excerpt: "\nHello, I'm Robert. I'm currently studying mechanical engineering at UW-Madison."
+  - excerpt: #"\nHello, I'm Robert. I'm currently studying mechanical engineering at UW-Madison."
 feature_row_0:
   - image_path: #TODO
     title: "Triton Robotics Internship"
@@ -16,7 +16,7 @@ feature_row_0:
     btn_label: "Read More"
     btn_class: "btn--warning"
 feature_row_1:
-  - image_path: #TODO
+  - image_path: /assets/images/arm.png
     title: "Humanoid Robotic Arm"
     excerpt: ""
     url: "#test-link"
@@ -29,13 +29,13 @@ feature_row_1:
     btn_label: "Read More"
     btn_class: "btn--warning"
 feature_row_2:
-  - image_path: #TODO
+  - image_path: /assets/images/signal.jpg
     title: "Turn Signal Light"
     excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
-  - image_path: #TODO
+  - image_path: /assets/images/go_robot.jpg
     title: "Go Playing Robot"
     excerpt: ""
     url: "#test-link"
