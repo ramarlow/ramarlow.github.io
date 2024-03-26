@@ -3,8 +3,8 @@ title: Hello
 layout: splash
 permalink: /
 header:
-    overlay_color: "#cc5500"
-    overlay_filter: "0.5"
+    #overlay_color: "#cc5500"
+    overlay_filter: rgba(204, 85, 0, 0.6)
     overlay_image: /assets/images/potato.jpg
     actions:
         - label: "Résumé"
