@@ -4,10 +4,12 @@ layout: splash
 permalink: /
 header:
     overlay_color: "#cc5500"
+    overlay_filter: "0.5"
+    overlay_image: /assets/images/potato.jpg
     actions:
         - label: "Résumé"
           url: "https://ramarlow.github.io/resume"
-excerpt: "I'm Robert. I'm currently a mechanical engineering undergrad at UW-Madison."
+excerpt: "I'm Robert, a mechanical engineering undergrad at UW-Madison. I'm interested in all sorts of robotics, wearable devices, autonomous vehicles and control, and origami. These are some of my past experiences and projects."
 feature_row_0:
   - image_path: /assets/images/triton.svg
     image_caption: "Summer 2023"
