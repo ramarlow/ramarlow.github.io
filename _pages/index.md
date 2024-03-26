@@ -5,7 +5,7 @@ permalink: /
 header:
     #overlay_color: "#cc5500"
     overlay_filter: rgba(204, 85, 0, 0.6)
-    overlay_image: /assets/images/potato_bw.jpg
+    overlay_image: /assets/images/potato.jpg
     actions:
         - label: "Résumé"
           url: "https://ramarlow.github.io/resume"
@@ -33,7 +33,7 @@ feature_row_1:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
-feature_row_2:
+#feature_row_2:
   - image_path: /assets/images/signal.jpg
     image_caption: "Fall 2021-2023"
     title: "Turn Signal Light"
