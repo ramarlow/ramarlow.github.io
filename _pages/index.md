@@ -21,14 +21,14 @@ feature_row_1:
   - image_path: /assets/images/arm.png
     image_caption: "Fall 2021-2022"
     title: "Humanoid Robotic Arm"
-    excerpt: ""
+    excerpt: "Also as part of Wisconsin Robotics, "
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
   - image_path: /assets/images/battlebot.png
     image_caption: "Spring 2023-2024"
     title: "Mini Battlebots"
-    excerpt: ""
+    excerpt: "As part of Wisconsin Robotics, "
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -43,7 +43,7 @@ feature_row_2:
   - image_path: /assets/images/go_robot.jpg
     image_caption: "Fall 2023"
     title: "Go Playing Robot"
-    excerpt: "As our Intro to Robotics final project, I worked with two classmates to build attachments and write control code allowing an off-the-shelf robotic arm to play the board game Go. It was a great opportunity to get practice using ROS (Robot Operating System), inverse kinematics, and computer vision, major topics covered in the course."
+    excerpt: "As our Intro to Robotics final project, I worked with two classmates to build attachments and write control code allowing an off-the-shelf robotic arm to play the board game Go."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
