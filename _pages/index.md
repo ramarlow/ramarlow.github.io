@@ -13,7 +13,7 @@ feature_row_0:
   - image_path: /assets/images/triton.svg
     image_caption: "Summer 2023"
     title: "Triton Robotics Internship"
-    excerpt: "[Triton](https://tritonrobotics.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to help out there over the summer of 2023, and helped design and implement tests and equipment for use with flexible composite medical catheters."
+    excerpt: "[Triton](https://tritonrobotics.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
