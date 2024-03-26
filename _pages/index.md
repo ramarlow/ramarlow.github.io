@@ -10,7 +10,7 @@ permalink: /
 intro:
   - excerpt: #"\nHello, I'm Robert. I'm currently studying mechanical engineering at UW-Madison."
 feature_row_0:
-  - image_path: #TODO
+  - image_path: /assets/images/triton.svg
     title: "Triton Robotics Internship"
     excerpt: ""
     url: "#test-link"
