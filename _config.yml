@@ -8,6 +8,14 @@ title: "Robert Marlow"
 title_separator: "|"
 subtitle: "Robotics Enthusiast"
 
+collections:
+  roles:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 author:
   name: "Robert Marlow"
   avatar: # none for now
