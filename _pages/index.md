@@ -18,17 +18,17 @@ feature_row_0:
     btn_label: "Read More"
     btn_class: "btn--warning"
 feature_row_1:
-  - image_path: /assets/images/arm.png
-    image_caption: "Fall 2021-2022"
-    title: "Humanoid Robotic Arm"
-    excerpt: "Also as part of Wisconsin Robotics, "
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--warning"
   - image_path: /assets/images/battlebot.png
     image_caption: "Spring 2023-2024"
     title: "Mini Battlebots"
-    excerpt: "As part of Wisconsin Robotics, "
+    excerpt: "As part of Wisconsin Robotics, the Outreach/Minibots subteam is working to make a set of child-safe nonlethal battlebots that engage in “sparring” by whacking each other with plastic squeaky hammers. "
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
+  - image_path: /assets/images/arm.png
+    image_caption: "Fall 2021-2022"
+    title: "Humanoid Robotic Arm"
+    excerpt: "Also as part of Wisconsin Robotics, this project's goal was mostly to move around and look cool. The first iteration was built almost entirely out of parts we salvaged from old projects, which pretty severely limited its strength and our design choices."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--warning"
