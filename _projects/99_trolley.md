@@ -9,4 +9,3 @@ header:
 excerpt: "The Intro to Mechanical Engineering course focused around building an obstacle-avoiding trolley using an Arduino and custom gearbox, and custom lightweight chassis."
 classes: wide
 ---
-hello
