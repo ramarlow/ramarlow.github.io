@@ -12,9 +12,9 @@ This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume.pdf){:target=
 ___
 **University of Wisconsin-Madison**<br />
 Bachelors of Science, Mechanical Engineering, expected May 2025
-* GPA: 4.0/4.0
-* Dean’s List (5/5 Semesters)
-* Coursework: Dynamic Systems, Fluid Dynamics, Robotics, Mechatronics, Data Science Programming
+* **GPA:** 4.0/4.0
+* **Dean’s List** (5/5 Semesters)
+* **Coursework:** Dynamic Systems, Fluid Dynamics, Robotics, Mechatronics, Data Science Programming
 
 ### **Engineering Experience**
 ___
@@ -24,7 +24,7 @@ ___
 * Validated new test methods by conducting statistical analysis of new and historical data for composite catheters
 * Streamlined device testing through ergonomic fixturing and automation of data processing, enabling faster iteration
 
-**Volunteer Mechanic**, [Silicon Valley Bicycle Exchange](https://bikex.org){:target="_blank"}, May - August 2022
+[**Volunteer Mechanic**](/roles/bikex), [Silicon Valley Bicycle Exchange](https://bikex.org){:target="_blank"}, May - August 2022
 * Diagnosed and refurbished donated bicycles to be distributed through local charities, gaining 100+ hrs of experience troubleshooting cable actuated systems, chain drives, and bearings
 * Mentored groups of underserved high school students in bike maintenance through the [GetSET STEM program](https://getset.org){:target="_blank"}
 
@@ -50,11 +50,28 @@ ___
 
 ### **Skills**
 ___
-**Software**:&ensp;Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA<br />
-**Programming Languages**:&ensp;Python, Java, C++, R, Matlab<br />
-**Tools**:&ensp;Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding<br />
-**Design**:&ensp;Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design<br />
-**Foreign Languages**:&ensp;Mandarin Chinese
+<table border="0">
+    <tr>
+        <td>**Software**:</td>
+        <td>Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA, Docker</td>
+    </tr>
+    <tr>
+        <td>**Programming Languages**:</td>
+        <td>Python, Java, C++, R, Matlab</td>
+    </tr>
+    <tr>
+        <td>**Tools**:</td>
+        <td>Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding</td>
+    </tr>
+    <tr>
+        <td>**Design**:</td>
+        <td>Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design</td>
+    </tr>
+    <tr>
+        <td>**Foreign Languages**:</td>
+        <td>Mandarin Chinese</td>
+    </tr>
+</table>
 
 ### **Activities**
 ___
