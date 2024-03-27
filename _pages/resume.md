@@ -6,7 +6,7 @@ toc: false
 author_profile: true
 classes: wide
 ---
-The [pdf](assets/R%20Marlow%20Resume.pdf){:target="_blank"} version might be easier to print or parse.
+This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume.pdf){:target="_blank"} version might be easier to print or parse.
 
 ### **Education**
 ___
@@ -18,17 +18,17 @@ Bachelors of Science, Mechanical Engineering, expected May 2025
 
 ### **Engineering Experience**
 ___
-[**Engineering Intern**](/roles/triton), [Triton Medical Robotics](https://tritonrobotics.com), May - August 2023
+[**Engineering Intern**](/roles/triton), [Triton Medical Robotics](https://tritonrobotics.com){:target="_blank"}, May - August 2023
 * Refined product demonstration equipment while gaining experience with pneumatic control and instrumentation
 * Designed test fixtures and performed 2000+ trials to measure behavior of endoscopes and components, incorporating water-resistant components and design strategies to enable future characterization in submerged environments
 * Validated new test methods by conducting statistical analysis of new and historical data for composite catheters
 * Streamlined device testing through ergonomic fixturing and automation of data processing, enabling faster iteration
 
-**Volunteer Mechanic**, [Silicon Valley Bicycle Exchange](https://bikex.org), May - August 2022
+**Volunteer Mechanic**, [Silicon Valley Bicycle Exchange](https://bikex.org){:target="_blank"}, May - August 2022
 * Diagnosed and refurbished donated bicycles to be distributed through local charities, gaining 100+ hrs of experience troubleshooting cable actuated systems, chain drives, and bearings
-* Mentored groups of underserved high school students in bike maintenance through the [GetSET STEM program](https://getset.org)
+* Mentored groups of underserved high school students in bike maintenance through the [GetSET STEM program](https://getset.org){:target="_blank"}
 
-[**Robotic Arm Project**](/projects/arm), [Wisconsin Robotics](https://www.wisconsinrobotics.org)
+[**Robotic Arm Project**](/projects/arm), [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}
 * Collaborated on an interdisciplinary team to prototype a humanoid 3-dof robotic arm for community outreach events
 * Incorporated PID control of joint position and wrote inverse kinematics algorithms for easier manipulation
 
@@ -44,13 +44,13 @@ ___
 
 ### **Other Experience**
 ___
-**Freight/Receiving Associate**, [The Home Depot](https://homedepot.com), July - August 2022
+**Freight/Receiving Associate**, [The Home Depot](https://homedepot.com){:target="_blank"}, July - August 2022
 * Worked with a team to efficiently unload, sort, and shelve incoming goods in proximity to heavy machinery
 * Provided customer service by helping guests locate and choose items in the hardware, electrical, and tools sections
 
 ### **Skills**
 ___
-**Software**:&ensp;Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/), Autodesk Inventor, ROS, KiCad, EasyEDA<br />
+**Software**:&ensp;Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA<br />
 **Programming Languages**:&ensp;Python, Java, C++, R, Matlab<br />
 **Tools**:&ensp;Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding<br />
 **Design**:&ensp;Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design<br />
@@ -58,7 +58,7 @@ ___
 
 ### **Activities**
 ___
-**[Wisconsin Robotics](https://www.wisconsinrobotics.org) (Outreach/Minibots Subteam Lead)**, UW-Madison, Fall 2021-Present<br />
+**[Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"} (Outreach/Minibots Subteam Lead)**, UW-Madison, Fall 2021-Present<br />
 **UW MadMakers**, UW-Madison, Fall 2021-Spring 2022<br />
 **FTC Robotics**, Team 14078, Spring 2018-Spring 2021<br />
 **Scouts BSA**, Troop 14, Fall 2014-Fall 2020

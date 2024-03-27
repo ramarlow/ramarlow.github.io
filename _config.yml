@@ -2,6 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: "dark"
 include: ["_pages"]
+exclude:
+  - Gemfile
 
 locale: "en-US"
 title: "Robert Marlow"
