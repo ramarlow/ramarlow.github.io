@@ -2,8 +2,9 @@
 title: Résumé
 layout: single
 permalink: /resume
-toc: true
+toc: false
 author_profile: true
+classes: wide
 ---
 [pdf](assets/R%20Marlow%20Resume.pdf)
 
@@ -41,24 +42,27 @@ ___
 * Employed innovative design and fabrication to place in the top quartile for all grading criteria
 * Reduced data noise and improved reliability by testing electronics and software, then researching solutions
 
-#### OTHER EXPERIENCE
+#### Other Experience
 ___
 **Freight/Receiving Associate**, The Home Depot, July - August 2022
 * Worked with a team to efficiently unload, sort, and shelve incoming goods in proximity to heavy machinery
 * Provided customer service by helping guests locate and choose items in the hardware, electrical, and tools sections
 
-#### SKILLS
+#### Skills
 ___
-Software: 			Solidworks, Onshape, EES, Autodesk Inventor, ROS, KiCad, EasyEDA
-Programming Languages: 	Python, Java, C++, R, Matlab
-Tools: 				Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding
-Design: 			Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design
-Foreign Languages: 		Mandarin Chinese
+**Software:** 			Solidworks, Onshape, EES, Autodesk Inventor, ROS, KiCad, EasyEDA
+**Programming Languages:** 	Python, Java, C++, R, Matlab
+**Tools:** 				Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding
+**Design:** 			Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design
+**Foreign Languages:** 		Mandarin Chinese
 
-#### ACTIVITIES
+#### Activities
 ___
-Wisconsin Robotics (Outreach/Minibots Subteam Lead), UW-Madison, Fall 2021-Present
-UW MadMakers, UW-Madison, Fall 2021-Spring 2022
-FTC Robotics, Team 14078, Spring 2018-Spring 2021
-Scouts BSA, Troop 14, Fall 2014-Fall 2020
+**Wisconsin Robotics (Outreach/Minibots Subteam Lead)**, UW-Madison, Fall 2021-Present
+
+**UW MadMakers**, UW-Madison, Fall 2021-Spring 2022
+
+**FTC Robotics**, Team 14078, Spring 2018-Spring 2021
+
+**Scouts BSA**, Troop 14, Fall 2014-Fall 2020
 * Earned Eagle Scout Rank, September 2020
