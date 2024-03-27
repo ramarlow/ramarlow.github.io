@@ -14,6 +14,9 @@ collections:
   roles:
     output: true
     permalink: /:collection/:path/
+    order:
+      - triton.md
+      - bikex.md
   projects:
     output: true
     permalink: /:collection/:path/
