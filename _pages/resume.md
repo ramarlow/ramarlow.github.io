@@ -6,7 +6,7 @@ toc: false
 author_profile: true
 classes: wide
 ---
-[pdf](assets/R%20Marlow%20Resume.pdf)
+This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume.pdf) version might be easier to print or parse.
 
 #### Education
 ___
@@ -50,19 +50,16 @@ ___
 
 #### Skills
 ___
-**Software:** 			Solidworks, Onshape, EES, Autodesk Inventor, ROS, KiCad, EasyEDA
-**Programming Languages:** 	Python, Java, C++, R, Matlab
-**Tools:** 				Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding
-**Design:** 			Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design
-**Foreign Languages:** 		Mandarin Chinese
+<div>**Software:** Solidworks, Onshape, EES, Autodesk Inventor, ROS, KiCad, EasyEDA</div>
+<div>**Programming Languages:** Python, Java, C++, R, Matlab</div>
+<div>**Tools:** Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding</div>
+<div>**Design:** Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design</div>
+<div>**Foreign Languages:** Mandarin Chinese</div>
 
 #### Activities
 ___
-**Wisconsin Robotics (Outreach/Minibots Subteam Lead)**, UW-Madison, Fall 2021-Present
-
-**UW MadMakers**, UW-Madison, Fall 2021-Spring 2022
-
-**FTC Robotics**, Team 14078, Spring 2018-Spring 2021
-
-**Scouts BSA**, Troop 14, Fall 2014-Fall 2020
-* Earned Eagle Scout Rank, September 2020
+<div>**Wisconsin Robotics (Outreach/Minibots Subteam Lead)**, UW-Madison, Fall 2021-Present</div>
+<div>**UW MadMakers**, UW-Madison, Fall 2021-Spring 2022</div>
+<div>**FTC Robotics**, Team 14078, Spring 2018-Spring 2021</div>
+<div>**Scouts BSA**, Troop 14, Fall 2014-Fall 2020
+* Earned Eagle Scout Rank, September 2020</div>
