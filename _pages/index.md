@@ -24,7 +24,7 @@ feature_row_1:
   - image_path: /assets/images/battlebot.png
     image_caption: "Spring 2023-2024"
     title: "Mini Battlebots"
-    excerpt: "As part of Wisconsin Robotics, the Outreach/Minibots subteam is working to make a set of child-safe nonlethal battlebots that engage in “sparring” by whacking each other with plastic squeaky hammers. "
+    excerpt: "As part of Wisconsin Robotics, the Outreach/Minibots subteam is working to make a set of child-safe nonlethal battlebots that engage in “sparring” by whacking each other with plastic squeaky hammers."
     url: "/projects/battlebots"
     btn_label: "Read More"
     btn_class: "btn--warning"
