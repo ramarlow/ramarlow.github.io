@@ -3,5 +3,6 @@ title: Roles
 layout: collection
 permalink: /roles
 collection: roles
-entries: grid
+entries_layout: grid
+classes: wide
 ---

@@ -15,6 +15,12 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+    order:
+      - battlebots.md
+      - arm.md
+      - signal.md
+      - go_robot.md
+      - trolley.md
 
 author:
   name: "Robert Marlow"

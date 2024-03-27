@@ -3,5 +3,6 @@ title: Projects
 layout: collection
 permalink: /projects
 collection: projects
-entries: grid
+entries_layout: grid
+classes: wide
 ---
