@@ -50,28 +50,11 @@ ___
 
 ### **Skills**
 ___
-<table border="0">
-    <tr>
-        <td>**Software**:</td>
-        <td>Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA, Docker</td>
-    </tr>
-    <tr>
-        <td>**Programming Languages**:</td>
-        <td>Python, Java, C++, R, Matlab</td>
-    </tr>
-    <tr>
-        <td>**Tools**:</td>
-        <td>Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding</td>
-    </tr>
-    <tr>
-        <td>**Design**:</td>
-        <td>Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design</td>
-    </tr>
-    <tr>
-        <td>**Foreign Languages**:</td>
-        <td>Mandarin Chinese</td>
-    </tr>
-</table>
+|**Software**:|Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA, Docker|
+|**Programming Languages**:|Python, Java, C++, R, Matlab|
+|**Tools**:|Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding|
+|**Design**:|Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design|
+|**Foreign Languages**:|Mandarin Chinese|
 
 ### **Activities**
 ___
