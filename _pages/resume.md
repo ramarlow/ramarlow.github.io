@@ -56,8 +56,8 @@ ___
 
 ### **Skills**
 ___
-|   |   |
-|-------------|-----------------------------------------------------------------------------------------------------|
+| &nbsp; | &nbsp; |
+| ------ | ------ |
 |**Software**:|Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA, Docker|
 |**Programming Languages**:|Python, Java, C++, R, Matlab|
 |**Tools**:   |Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding|
