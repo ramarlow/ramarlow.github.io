@@ -8,7 +8,7 @@ exclude:
 locale: "en-US"
 title: "Robert Marlow"
 title_separator: "|"
-subtitle: "Robotics Enthusiast"
+subtitle: #"Robotics Enthusiast"
 
 collections:
   roles:
