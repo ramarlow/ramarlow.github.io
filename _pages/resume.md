@@ -6,14 +6,6 @@ toc: false
 author_profile: true
 classes: wide
 ---
-<style>
-.grid-container {
-    display: grid;
-    grid-template-columns: 0.7fr 1.3fr;
-    grid-gap: 10px;
-}
-</style>
-
 This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume.pdf){:target="_blank"} version might be easier to print or parse.
 
 ### **Education**
@@ -58,56 +50,11 @@ ___
 
 ### **Skills**
 ___
-<div class="grid-container">
-<div>
-
-**Software**:
-</div>
-<div>
-
-Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA, Docker
-</div>
-</div>
-<div class="grid-container">
-<div>
-
-**Programming Languages**:
-</div>
-<div>
-
-Python, Java, C++, R, Matlab
-</div>
-</div>
-<div class="grid-container">
-<div>
-
-**Tools**:
-</div>
-<div>
-
-Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding
-</div>
-</div>
-<div class="grid-container">
-<div>
-
-**Design**:
-</div>
-<div>
-
-Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design
-</div>
-</div>
-<div class="grid-container">
-<div>
-
-**Foreign Languages**:
-</div>
-<div>
-
-Mandarin Chinese
-</div>
-</div>
+**Software**:&ensp;&ensp;Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA, Docker<br />
+**Programming Languages**:&ensp;&ensp;Python, Java, C++, R, Matlab<br />
+**Tools**:&ensp;&ensp;Shop Machines, 3D Printing, Hand Tools, Soldering, Oscilloscope, Welding<br />
+**Design**:&ensp;&ensp;Mechanical Design, Microcontroller Integration, Electrical Schematics, PCB Design<br />
+**Foreign Languages**:&ensp;&ensp;Mandarin Chinese
 
 ### **Activities**
 ___
