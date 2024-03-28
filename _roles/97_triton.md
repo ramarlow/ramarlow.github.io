@@ -4,10 +4,10 @@ layout: single
 permalink: /roles/triton
 toc: false
 author_profile: true
-classes: wide
 header:
     teaser: /assets/images/triton.svg
 excerpt: "[Triton](https://tritonrobotics.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters."
+classes: wide
 gallery:
   - image_path: /assets/images/fixture-cad.png
     alt: "Rendering of a CAD model of the test fixture"
@@ -22,3 +22,5 @@ I designed the fixture in Solidworks, assembled it, then conducted trials and pr
 ![image-left](/assets/images/rigidizer.png){: width="30%" .align-left}
 Another project I undertook at Triton was prototyping a handheld pressurized air supply for product demonstration purposes. The previous solution had relied on a 5-gallon air tank, which was impractical for off-site demonstrations and generally inconvenient for portability. After trying to solve this by sourcing a smaller tank, I further reduced the size and complexity by switching to compressed CO2 canisters, which are already commonly available for bike tire inflation, and designed a palm-sized enclosure for a small regulator and valve. In testing, I determined that the new device would supply enough air for at least 20 rigidization cycles, about 4 times what is usually used in demonstration.
 ![image-center](/assets/images/rigidizer-comparison.jpg){: .align-center}
+
+Aside from these projects, I was responsible some other miscellaneous tasks. In working with other engineers to carry out component failure mode tests on new materials, I was able to gather observations and data that helped tune critical process parameters. I also referenced supplier datasheets to assemble and solder a few sensor arrays used for spatially locating the endoscopes.
