@@ -6,11 +6,6 @@ toc: false
 author_profile: true
 classes: wide
 ---
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume.pdf){:target="_blank"} version might be easier to print or parse.
 
@@ -56,7 +51,7 @@ ___
 
 ### **Skills**
 ___
-| text | text |
+|   |   |
 | ------ | ------ |
 |**Software**:|Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Autodesk Inventor, ROS, KiCad, EasyEDA, Docker|
 |**Programming Languages**:|Python, Java, C++, R, Matlab|
