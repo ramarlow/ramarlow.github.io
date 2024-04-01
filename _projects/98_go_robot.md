@@ -22,4 +22,4 @@ I also wrote inverse kinematics, motion planning, and joint control nodes in the
 
 ![image-center](/assets/images/rqt-graph.png){: .align-center}
 
-Since none of us had extensive experience on the electrical engineering side, I handled wiring of the e-stop, electromagnet, additional servo, and interaction buttons connected to the raspberry pi.
+Since none of us had extensive experience on the electrical engineering side, I handled wiring of the e-stop, electromagnet, additional servo, and interaction buttons connected to the Raspberry Pi, then implemented them by writing ROS nodes.
