@@ -5,7 +5,7 @@ permalink: /
 header:
     #overlay_color: "#cc5500"
     overlay_filter: rgba(204, 85, 0, 0.6)
-    overlay_image: /assets/images/potato.jpg
+    overlay_image: /assets/images/potato_bw.jpg
     actions:
         - label: "My Résumé"
           url: "resume"
