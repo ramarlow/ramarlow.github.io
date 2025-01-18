@@ -1,7 +1,7 @@
 ---
 title: Triton Medical Robotics Internship
 layout: single
-permalink: /roles/triton
+permalink: /roles/triton23
 toc: false
 author_profile: true
 header:
