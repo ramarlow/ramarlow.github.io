@@ -9,7 +9,7 @@ header:
 excerpt: "As part of Wisconsin Robotics, the Outreach/Minibots subteam is working to make a set of child-safe nonlethal battlebots that engage in “sparring” by whacking each other with plastic squeaky hammers."
 classes: wide
 gallery:
-  - image_path: /assets/images/battlebot-wiring.jpg
+  - image_path: /assets/images/battlebot-wiring.png
     alt: "Messy wiring of various electrical components that necessitated a PCB"
   - image_path: /assets/images/battlebot-pcb.jpg
     alt: "Custom motor and power PCB that I helped a new member design and assemble"

@@ -16,7 +16,7 @@ feature_row_0:
   - image_path: /assets/images/triton.svg
     image_caption: "Summer 2024"
     title: "2024 Triton Robotics Internship"
-    excerpt: excerpt: "I had a really fun time returning to [Triton](https://tritonrobotics.com/) in the summer of 2024 as an intern. I rejoined the endoscopy team to do a bunch of device durability testing, improve and expand testing capabilities, support manufacturing and documentation efforts, and also wrote a tool for analyzing roslogs of robot telemetry."
+    excerpt: "I had a really fun time returning to [Triton](https://tritonrobotics.com/) in the summer of 2024 as an intern. I rejoined the endoscopy team to do a bunch of device durability testing, improve and expand testing capabilities, support manufacturing and documentation efforts, and also wrote a tool for analyzing roslogs of robot telemetry."
     url: "/roles/triton24"
     btn_label: "Read More"
     btn_class: "btn--warning"
