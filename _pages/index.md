@@ -28,7 +28,14 @@ feature_row_0:
     btn_label: "Read More"
     btn_class: "btn--warning"
 feature_row_1:
-  - image_path: /assets/images/battlebot.png
+  - image_path: /assets/images/drill-real.jpg
+    image_caption: "Fall 2024-Spring 2025"
+    title: "Mars Rover Drill"
+    excerpt: "For our capstone design project, some robotics teammates and I have been designing the soil extraction and testing capabilities for a competitive mock-Mars rover."
+    url: "/projects/seniordes"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
+  - image_path: /assets/images/weeblebot.jpg
     image_caption: "Spring 2024-2025"
     title: "Weeblebot"
     excerpt: "I worked with a group of fellow undergrads in the BADGER Lab on the ongoing weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry."
@@ -56,7 +63,7 @@ feature_row_1:
     url: "/projects/signal"
     btn_label: "Read More"
     btn_class: "btn--warning"
-  - image_path: /assets/images/go_robot.jpg
+  - image_path: /assets/images/go-robot.jpg
     image_caption: "Fall 2023"
     title: "Go Playing Robot"
     excerpt: "As our Intro to Robotics final project, I worked with two classmates to build attachments and write control code allowing an off-the-shelf robotic arm to play the board game Go."
