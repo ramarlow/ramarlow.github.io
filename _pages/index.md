@@ -28,7 +28,7 @@ feature_row_0:
     btn_label: "Read More"
     btn_class: "btn--warning"
 feature_row_1:
-  - image_path: /assets/images/drill-real.jpg
+  - image_path: /assets/images/drill-cad.jpg
     image_caption: "Fall 2024-Spring 2025"
     title: "Mars Rover Drill"
     excerpt: "For our capstone design project, some robotics teammates and I have been designing the soil extraction and testing capabilities for a competitive mock-Mars rover."

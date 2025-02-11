@@ -9,9 +9,9 @@ header:
 excerpt: "Also as part of Wisconsin Robotics, this project’s goal was mostly to move around, interact with people or objects, and look cool."
 classes: wide
 gallery:
-  - image_path: /assets/images/arm-sketch-1.JPG
+  - image_path: /assets/images/arm-sketch-1.jpg
     alt: "sketch of bevel gears for arm joint"
-  - image_path: /assets/images/arm-sketch-2.JPG
+  - image_path: /assets/images/arm-sketch-2.jpg
     alt: "sketch of spur gears for arm joint"
 gallery-1:
   - image_path: /assets/images/arm.png
