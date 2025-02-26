@@ -1,5 +1,5 @@
 ---
-title: Bicycle Exchange Volunteer Work
+title: Volunteer Mechanic, Silicon Valley Bicycle Exchange
 layout: single
 permalink: /roles/bikex
 toc: false

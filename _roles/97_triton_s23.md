@@ -1,5 +1,5 @@
 ---
-title: Triton Medical Robotics Internship
+title: Engineering Intern, Triton Medical Robotics
 layout: single
 permalink: /roles/triton23
 toc: false

@@ -1,5 +1,5 @@
 ---
-title: Triton Medical Robotics Internship
+title: Product Development Engineer Intern, Triton Robotics
 layout: single
 permalink: /roles/triton24
 toc: false
