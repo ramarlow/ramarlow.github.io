@@ -14,7 +14,7 @@ ___
 Bachelor of Science, Mechanical Engineering, expected May 2025
 * **GPA:** 4.0/4.0
 * **Dean’s List** (7/7 Semesters)
-* **Coursework:** Fluid Dynamics, Materials Science, Intro to Robotics, Design of Machine Elements
+* **Coursework:** Fluid Dynamics, Heat Transfer, Materials Science, Intro to Robotics, Design of Machine Elements, Control of Robotic Manipulators
 
 ### **Engineering Experience**
 ___
