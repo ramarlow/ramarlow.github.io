@@ -10,11 +10,13 @@ This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume.pdf){:target=
 
 ### **Education**
 ___
+**University of California, Los Angeles**<br />
+Master of Science, Mechanical Engineering, expected June 2027
+
 **University of Wisconsin-Madison**<br />
-Bachelor of Science, Mechanical Engineering, expected May 2025
+Bachelor of Science, Mechanical Engineering, May 2025
 * **GPA:** 4.0/4.0
-* **Dean’s List** (7/7 Semesters)
-* **Coursework:** Fluid Dynamics, Heat Transfer, Materials Science, Intro to Robotics, Design of Machine Elements, Control of Robotic Manipulators
+* **Coursework:** Materials Science, Data Science Programming, Mechatronics, Dynamic Systems, Intro to Robotics, Design of Machine Elements, Control of Robotic Manipulators
 
 ### **Engineering Experience**
 ___
@@ -36,7 +38,7 @@ ___
 * Refined product demonstration equipment while gaining experience with pneumatic control and instrumentation
 
 [**Volunteer Mechanic**](/roles/bikex), [Silicon Valley Bicycle Exchange](https://bikex.org){:target="_blank"}, May - August 2022
-* Gained hands-on experience troubleshooting cable actuated systems, chain drives, and angular contact bearings
+* Diagnosed and repaired donations, troubleshooting cable actuated systems, chain drives, and angular contact bearings
 * Mentored groups of underserved high school students in bike maintenance through the [GetSET STEM program](https://getset.org){:target="_blank"}
 
 [**Robotic Arm Project**](/projects/arm), [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}
@@ -56,10 +58,10 @@ ___
 
 ### **Skills**
 ___
-**Software**:&ensp;&ensp;Solidworks, Onshape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Inventor, ROS, ROS2, KiCad, Docker, Minitab, Excel<br />
-**Programming**:&ensp;&ensp;Python, Java, C++, R, Matlab<br />
+**Software**:&ensp;&ensp;Solidworks, OnShape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Inventor, KiCad, Docker, Minitab, Excel, APDL, LabView<br />
+**Programming**:&ensp;&ensp;Python, Java, C++, R, Matlab, Arduino, ROS, ROS2<br />
 **Tools**:&ensp;&ensp;Shop Machines, 3D Printing, Soldering, Oscilloscope, Welding, Metal Casting, Glassblowing<br />
-**Design**:&ensp;&ensp;DFM, GD&T, Microcontroller Integration, Electrical Schematics, PCB Design<br />
+**Design**:&ensp;&ensp;DFM, GD&T, Electrical Schematics, PCB Design, Electromechanical Systems<br />
 **Foreign Languages**:&ensp;&ensp;Mandarin Chinese
 
 ### **Activities**
