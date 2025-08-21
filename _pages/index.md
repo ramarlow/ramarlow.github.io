@@ -13,7 +13,7 @@ header:
           url: "https://www.linkedin.com/in/robert-marlow-301779222/"
 excerpt: "I'm Robert, a mechanical engineering undergrad at UW-Madison. I'm interested in all sorts of robotics, wearable devices, controls, and origami. These are some of my past experiences and projects."
 feature_row_0:
-  - image_path: /assets/images/triton.svg
+  - image_path: /assets/images/triton-logo-rev.svg
     image_caption: "Summer 2024"
     title: "2024 Triton Robotics Internship"
     excerpt: "I had a really fun time returning to [Triton](https://tritonrobotics.com/) in the summer of 2024 as an intern. I rejoined the endoscopy team to do a bunch of device durability testing, improve and expand testing capabilities, support manufacturing and documentation efforts, and also wrote a tool for analyzing roslogs of robot telemetry."

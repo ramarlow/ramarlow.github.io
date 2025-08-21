@@ -6,7 +6,7 @@ toc: false
 author_profile: true
 classes: wide
 ---
-This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume.pdf){:target="_blank"} version might be easier to print or parse.
+This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume%20S25.pdf){:target="_blank"} version might be easier to print or parse.
 
 ### **Education**
 ___
