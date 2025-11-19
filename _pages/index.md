@@ -11,7 +11,7 @@ header:
           url: "resume"
         - label: "LinkedIn"
           url: "https://www.linkedin.com/in/robert-marlow-301779222/"
-excerpt: "I'm Robert, a mechanical engineering undergrad at UW-Madison. I'm interested in all sorts of robotics, wearable devices, controls, and origami. These are some of my past experiences and projects."
+excerpt: "I'm Robert, a mechanical engineering MS student at UCLA. I'm interested in all sorts of robotics, wearable devices, controls, and origami. These are some of my past experiences and projects."
 feature_row_0:
   - image_path: /assets/images/triton-logo-rev.svg
     image_caption: "Summer 2024"
