@@ -76,8 +76,8 @@ ___
 
 ### **Activities**
 ___
-**[Mohala Lab](https://www.mohalalab.org/){:target="_blank"} (Graduate Researcher)**, UCLA, Spring 2026-Present
-**[ASME X1 Robotics](https://www.asmebruins.com/x1){:target="_blank"} (Power Systems Member)**, UCLA, Fall 2025-Present
+**[Mohala Lab](https://www.mohalalab.org/){:target="_blank"} (Graduate Researcher)**, UCLA, Spring 2026-Present<br />
+**[ASME X1 Robotics](https://www.asmebruins.com/x1){:target="_blank"} (Power Systems Member)**, UCLA, Fall 2025-Present<br />
 **[Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"} (Outreach Subteam Lead)**, UW-Madison, Fall 2021-Spring 2025<br />
 **UW MadMakers**, UW-Madison, Fall 2021-Spring 2022<br />
 **FTC Robotics**, Team 14078, Spring 2018-Spring 2021<br />
