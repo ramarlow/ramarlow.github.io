@@ -6,68 +6,78 @@ toc: false
 author_profile: true
 classes: wide
 ---
-This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume%20S25.pdf){:target="_blank"} version might be easier to print or parse.
+This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume%20S26.pdf){:target="_blank"} version might be easier to print or parse.
 
 ### **Education**
 ___
 **University of California, Los Angeles**<br />
 Master of Science, Mechanical Engineering, expected June 2027
+* **GPA:** 4.0/4.0
+* **Coursework:** Bionic System Design, Linear Optimal Control, Flexures, Soft Structures/Robots
 
 **University of Wisconsin-Madison**<br />
 Bachelor of Science, Mechanical Engineering, May 2025
 * **GPA:** 4.0/4.0
-* **Coursework:** Materials Science, Data Science Programming, Mechatronics, Dynamic Systems, Intro to Robotics, Design of Machine Elements, Control of Robotic Manipulators
+* **Coursework:** Materials Science, Data Science Programming, Mechatronics, Dynamic Systems, Intro to Robotics, Design of Machine Elements, Kinematics/Dynamics/Control of Robotic Manipulators
 
-### **Engineering Experience**
+### **Experience**
 ___
 [**Product Development Engineer Intern**](/roles/triton24), [Triton Medical Robotics](https://tritonrobotics.com){:target="_blank"}, May - August 2024
-* Developed python scripts to compile and analyze robot telemetry data from rosbags, extracting driving statistics from physician and internal labs to underpin endoscope and capital equipment cyclic durability test protocols
-* Supported manufacturing operations by designing and implementing assembly line fixtures, drafting and updating process instructions, and investigating reject components to improve yields, identify training gaps, and inform specs
 * Doubled device verification testing capacity by duplicating and improving fixtures for 5+ test methods
+* Developed Python scripts to compile and analyze robot telemetry data from rosbags, extracting driving statistics from physician and internal labs to underpin endoscope and capital equipment cyclic durability test protocols
+* Supported manufacturing operations by designing and implementing assembly line fixtures, drafting and updating process instructions, and investigating reject components to improve yields, identify training gaps, and inform specs
 * Built upon previous summer’s successful equipment by implementing fault-tolerant design and assembling new units
 
-[**Undergraduate Researcher**](/projects/weeblebot), [UW-Madison BADGER Lab](https://uwbadgerlab.engr.wisc.edu/){:target="_blank"}, Spring 2024 - Present
-* Wrote and maintained ROS nodes for teleoperation and odometry of a unique two-wheeled stable mobile robot
-* Communicated underlying kinematic principles and represented the lab at local engineering outreach events
+[**Undergraduate Researcher**](/projects/weeblebot), [UW-Madison BADGER Lab](https://uwbadgerlab.engr.wisc.edu/){:target="_blank"}, Spring 2024 - Spring 2025
 * Researched and implemented docker images to circumvent versioning conflicts and manage dependencies
+* Wrote and maintained ROS/ROS2 nodes for teleoperation and odometry of a unique two-wheeled stable mobile robot
+* Communicated underlying kinematic principles and represented the lab at local engineering outreach events
 
 [**Engineering Intern**](/roles/triton23), [Triton Medical Robotics](https://tritonrobotics.com){:target="_blank"}, May - August 2023
-* Designed test fixtures and performed 2000+ trials to measure behavior of endoscopes and components, incorporating water-resistant components and design strategies to enable ongoing characterization in submerged environments
-* Validated new test methods by conducting statistical analysis of new and historical data for catheter components
-* Streamlined device testing through ergonomic fixturing and automation of data processing, enabling faster iteration
-* Refined product demonstration equipment while gaining experience with pneumatic control and instrumentation
+* Designed test fixtures and performed 2000+ trials to measure behavior of submerged endoscopes and components
+* Validated new test methods by conducting statistical analysis of new and historical data for catheter subassemblies
+* Prototyped new product demonstration equipment, gaining experience with pneumatic control and instrumentation
 
 [**Volunteer Mechanic**](/roles/bikex), [Silicon Valley Bicycle Exchange](https://bikex.org){:target="_blank"}, May - August 2022
 * Diagnosed and repaired donations, troubleshooting cable actuated systems, chain drives, and angular contact bearings
 * Mentored groups of underserved high school students in bike maintenance through the [GetSET STEM program](https://getset.org){:target="_blank"}
 
+### **Projects**
+___
+[**Mars Rover Science Payload**](/projects/seniordes), Capstone Design for [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}
+* Built and iterated a remotely operated soil auger for mobile subsurface sampling in the University Rover Challenge
+* Established and met weight, power, and space constraints based on competition rules, client input, and rover design
+* Conducted literature reviews and prototype testing to inform auger geometry and motor performance requirements
+* Coordinated with teammates to plan mechanical and electrical integration with other science subsystems and rover
+
 [**Robotic Arm Project**](/projects/arm), [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}
 * Collaborated on an interdisciplinary team to prototype a humanoid 3-dof robotic arm for community outreach events
 * Incorporated PID control of joint position and wrote inverse kinematics algorithms for intuitive manipulation
+* Redesigned motorized joints to cut backlash by 50% and ease motor loads by increasing stiffness while saving mass
 
 [**Lighted Turn Signal Glove Project**](/projects/signal), UW MadMakers
 * Developed a wearable device to help with visibility and communication when bicycling at night
-* Implemented simple gesture recognition using an IMU sensor and ESP32 microcontroller 
+* Implemented simple gesture and orientation recognition using an IMU sensor and ESP32 microcontroller 
 * Designed and assembled a custom PCB to hold LEDs, battery charging, ESP32, IMU, and UART/SPI connections
 
 [**Autonomous Trolley Project**](/projects/trolley), Intro to Mechanical Engineering
-* Collaborated with 2 classmates on software, electronics, and mechanical components to create an obstacle-detecting trolley using an Arduino
+* Worked with 2 classmates on software, electronics, and mechanical components to create an obstacle-detecting trolley using an Arduino
 * Employed innovative design and fabrication to place in the top quartile for all grading criteria
 * Reduced data noise and improved reliability by testing electronics and software, then researching solutions
 
 
 ### **Skills**
 ___
-**Software**:&ensp;&ensp;Solidworks, OnShape, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, Inventor, KiCad, Docker, Minitab, Excel, APDL, LabView<br />
-**Programming**:&ensp;&ensp;Python, Java, C++, R, Matlab, Arduino, ROS, ROS2<br />
+**Software**:&ensp;&ensp;Solidworks, OnShape, Inventor, KiCad, Minitab, Excel, LabView, OpenSim, [EES](https://fchartsoftware.com/ees/){:target="_blank"}<br />
+**Programming**:&ensp;&ensp;Python, Matlab, Java, C++, R, Arduino, ROS, ROS2, Docker<br />
 **Tools**:&ensp;&ensp;Shop Machines, 3D Printing, Soldering, Oscilloscope, Welding, Metal Casting, Glassblowing<br />
 **Design**:&ensp;&ensp;DFM, GD&T, Electrical Schematics, PCB Design, Electromechanical Systems<br />
 **Foreign Languages**:&ensp;&ensp;Mandarin Chinese
 
 ### **Activities**
 ___
-**[Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"} (Outreach/Minibots Subteam Lead)**, UW-Madison, Fall 2021-Present<br />
+**[Mohala Lab](https://www.mohalalab.org/){:target="_blank"} (Graduate Researcher)**, UCLA, Spring 2026-Present
+**[ASME X1 Robotics](https://www.asmebruins.com/x1){:target="_blank"} (Power Systems Member)**, UCLA, Fall 2025-Present
+**[Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"} (Outreach Subteam Lead)**, UW-Madison, Fall 2021-Spring 2025<br />
 **UW MadMakers**, UW-Madison, Fall 2021-Spring 2022<br />
 **FTC Robotics**, Team 14078, Spring 2018-Spring 2021<br />
-**Scouts BSA**, Troop 14, Fall 2014-Fall 2020
-* Earned Eagle Scout Rank, September 2020

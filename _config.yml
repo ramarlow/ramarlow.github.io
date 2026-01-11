@@ -21,8 +21,8 @@ collections:
 author:
   name: "Robert Marlow"
   avatar: # none for now
-  bio: "Mechanical Engineering Student at UW-Madison"
-  location: "Palo Alto | Madison"
+  bio: "Mechanical Engineering Student at UCLA"
+  location: "Palo Alto | Los Angeles"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
