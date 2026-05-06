@@ -12,7 +12,7 @@ This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume%20S26.pdf){:t
 ___
 **University of California, Los Angeles**<br />
 Master of Science, Mechanical Engineering, expected June 2027
-* **GPA:** 4.0/4.0
+* **GPA:** 3.96/4.0
 * **Coursework:** Bionic System Design, Linear Optimal Control, Flexures, Soft Structures/Robots
 
 **University of Wisconsin-Madison**<br />
