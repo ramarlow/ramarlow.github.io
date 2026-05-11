@@ -68,7 +68,7 @@ ___
 
 ### **Skills**
 ___
-**Software**:&ensp;&ensp;Solidworks, OnShape, Inventor, KiCad, Minitab, Excel, LabView, OpenSim, [EES](https://fchartsoftware.com/ees/){:target="_blank"}<br />
+**Software**:&ensp;&ensp;Solidworks, OnShape, Inventor, KiCad, Minitab, Excel, LabView, Jira, OpenSim, [EES](https://fchartsoftware.com/ees/){:target="_blank"}<br />
 **Programming**:&ensp;&ensp;Python, Matlab, Java, C++, R, Arduino, ROS, ROS2, Docker<br />
 **Tools**:&ensp;&ensp;Shop Machines, 3D Printing, Soldering, Oscilloscope, Welding, Metal Casting, Glassblowing<br />
 **Design**:&ensp;&ensp;DFM, GD&T, Electrical Schematics, PCB Design, Electromechanical Systems<br />
