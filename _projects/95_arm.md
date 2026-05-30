@@ -19,7 +19,7 @@ gallery-1:
   - image_path: /assets/images/arm-real.png
     alt: "Assembled arm, with a 3D printed motorized hand"
 ---
-My first project with Wisconsin Robotics was a 3 degree of freedom humanoid arm, which we undertook with the goal of doing some simple manipulation tasks. I worked on the mechanical design of the joints, then wrote inverse kinematics algorithms in Python to run on a Raspberry Pi and PID control in C++ to run on an Arduino. The joint angles determined by the Pi were sent over USB to the Arduino, which ran feedback control loops to read and control the position of each joint using absolute encoders.
+My first project with Wisconsin Robotics was a 3 degree of freedom humanoid arm, which we undertook with the goal of doing some simple manipulation tasks. I worked on the mechanical design of the joints, then wrote inverse kinematics algorithms in Python to run on a Raspberry Pi and PID control in C++ to run on an Arduino. The joint angles determined by the Pi were sent over USB to the Arduino, which ran decentralized feedback loops to read and control the position of each joint using absolute encoders.
 
 The first iteration was built almost entirely out of parts we salvaged from old projects, plus a couple 3D-printed bevel gears. Using bevel gears made it possible to mount the motor with its axis in line with the arm, occupying the space inside the arm cavity without making joints excessively wide and bulky. The joints were made of hand-drilled plywood, leading to some pretty bad tolerances, but the arm was functional enough to do a good job knocking things off a table.
 {% include gallery id="gallery" caption="Initial design sketches of arm joint gearing." %}

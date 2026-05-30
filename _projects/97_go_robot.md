@@ -12,7 +12,7 @@ classes: wide
 For the final project of the Introduction to Robotics course, our team of 3 decided to build a robot to play the board game Go. This was largely inpired by a shared enjoyment of board games, though none of us knew how to play Go specifically before starting. We had initially considered playing chess, but too many other groups had the same idea and grasping Go pieces seemed more predictable.
 
 ![image-left](/assets/images/arm-gantry.png){: width="30%" .align-left}
-We started from a provided off-the-shelf 6-DoF robotic arm, which we suspended from a gantry to open up more of its workspace by allowing the robot to extend both forward and backward. The robot's joint arrangement meant that even though it could theoretically reach plenty far, doing so while keeping control of end effector orientation wasn't possible. 
+We started from a provided off-the-shelf 6-DoF robotic arm, which we suspended from a gantry to open up more of its workspace by allowing the robot to extend both forward and backward. The robot's joint arrangement meant that even though it could theoretically reach plenty far, doing so while maintaining our desired end effector orientation wasn't possible. 
 
 ![image-right](/assets/images/electromagnet.png){: width="30%" .align-right}
 I modified the arm by attaching another servo to the tip and adding an electromagnet to pick up the game pieces, which we custom made with ferromagnetic cores. Although the arm originally had a gripper, it wouldn't have been precise or small enough to pick up game pieces without disturbing the board state. The electromagnet gave us a bit of wiggle room when picking up pieces, which ended up being a big help.

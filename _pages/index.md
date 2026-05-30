@@ -7,10 +7,12 @@ header:
     overlay_filter: rgba(204, 85, 0, 0.6)
     overlay_image: /assets/images/potato_bw.jpg
     actions:
-        - label: "My Resume"
+        - label: "Resume"
           url: "resume"
         - label: "LinkedIn"
           url: "https://www.linkedin.com/in/robert-marlow-301779222/"
+        - label: "Research"
+          url: "https://www.mohalalab.org/"
 excerpt: "I'm Robert, a mechanical engineering MS student at UCLA. I'm interested in all sorts of robotics, wearable devices, controls, and origami. These are some of my past experiences and projects."
 feature_row_0:
   - image_path: /assets/images/triton-logo-rev.svg
@@ -38,7 +40,7 @@ feature_row_1:
   - image_path: /assets/images/weeblebot.jpg
     image_caption: "Spring 2024-2025"
     title: "Weeblebot"
-    excerpt: "I worked with a group of fellow undergrads in the BADGER Lab on the ongoing weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry."
+    excerpt: "I worked with a couple fellow undergrads in the BADGER Lab on the ongoing weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry."
     url: "/projects/weeblebot"
     btn_label: "Read More"
     btn_class: "btn--warning"
