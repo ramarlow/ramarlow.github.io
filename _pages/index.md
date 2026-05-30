@@ -30,13 +30,39 @@ feature_row_0:
     btn_label: "Read More"
     btn_class: "btn--warning"
 feature_row_1:
-  - image_path: /assets/images/drill-cad.jpg
+
+  - image_path: /assets/images/display-finished.png
+    image_caption: "Spring 2025"
+    title: "Powered Shopping Cart"
+    excerpt: "Wisconsin Robotics decided to retire their long-serving rover at the end of the 2024 URC season to make way for a full redesign, so we got permission to display the old vehicle in a corner of the ME building, for which I helped build a display platform."
+    url: "/projects/platform"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
+
+  - image_path: /assets/images/cart-bucky.jpg
+    image_caption: "Spring 2025"
+    title: "Powered Shopping Cart"
+    excerpt: "A teammate and I thought it'd be fun to build our own take on a classic William Osman video by attaching hoverboard hub motors to a (legally acquired) shopping cart."
+    url: "/projects/cart"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
+
+  - image_path: /assets/images/casting-landscape.jpg
+    image_caption: "Fall 2024"
+    title: "Brass Animal Castings"
+    excerpt: "My favorite project from UW's Engineering metal casting class was 3 replicas of an ancient Chinese wine vessel, which I cast in silicon brass using a lost PLA investment process."
+    url: "/projects/casting"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
+
+  - image_path: /assets/images/drill-brushless.jpg
     image_caption: "Fall 2024-Spring 2025"
     title: "Mars Rover Drill"
     excerpt: "For our capstone design project, some robotics teammates and I have been designing the soil extraction and testing capabilities for a competitive mock-Mars rover."
     url: "/projects/seniordes"
     btn_label: "Read More"
     btn_class: "btn--warning"
+
   - image_path: /assets/images/weeblebot.jpg
     image_caption: "Spring 2024-2025"
     title: "Weeblebot"
@@ -44,6 +70,7 @@ feature_row_1:
     url: "/projects/weeblebot"
     btn_label: "Read More"
     btn_class: "btn--warning"
+
   - image_path: /assets/images/battlebot.png
     image_caption: "Spring 2023-2024"
     title: "Mini Battlebots"
@@ -51,6 +78,7 @@ feature_row_1:
     url: "/projects/battlebots"
     btn_label: "Read More"
     btn_class: "btn--warning"
+
   - image_path: /assets/images/arm.png
     image_caption: "Fall 2021-2022"
     title: "Humanoid Robotic Arm"
@@ -58,6 +86,7 @@ feature_row_1:
     url: "/projects/arm"
     btn_label: "Read More"
     btn_class: "btn--warning"
+
   - image_path: /assets/images/signal.jpg
     image_caption: "Fall 2021-2023"
     title: "Turn Signal Light"
@@ -65,6 +94,7 @@ feature_row_1:
     url: "/projects/signal"
     btn_label: "Read More"
     btn_class: "btn--warning"
+
   - image_path: /assets/images/go-robot.jpg
     image_caption: "Fall 2023"
     title: "Go Playing Robot"
@@ -72,6 +102,7 @@ feature_row_1:
     url: "/projects/go-robot"
     btn_label: "Read More"
     btn_class: "btn--warning"
+
   - image_path: /assets/images/trolley.jpg
     image_caption: "Fall 2021"
     title: "Autonomous Trolley"
