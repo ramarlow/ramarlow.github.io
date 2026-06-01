@@ -34,7 +34,7 @@ feature_row_1:
   - image_path: /assets/images/display-finished.png
     image_caption: "Spring 2025"
     title: "Rover Display Platform"
-    excerpt: "Wisconsin Robotics decided to retire their long-serving rover at the end of the 2024 URC season to make way for a full redesign, so we got permission to display the old vehicle in a corner of the ME building, for which I helped build a display platform."
+    excerpt: "Wisconsin Robotics decided to retire their long-serving rover at the end of the 2024 URC season to make way for a full redesign, so we got permission to display the old one in a corner of the ME building, for which I helped build a display platform."
     url: "/projects/platform"
     btn_label: "Read More"
     btn_class: "btn--warning"
