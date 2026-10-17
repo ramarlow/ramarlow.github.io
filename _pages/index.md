@@ -1,5 +1,5 @@
 ---
-title: Hello
+title: 
 layout: splash
 permalink: /
 header:
@@ -15,6 +15,13 @@ header:
           url: "https://www.mohalalab.org/"
 excerpt: "I'm Robert, a mechanical engineering MS student at UCLA. I'm interested in all sorts of robotics, wearable devices, controls, and origami. These are some of my past experiences and projects."
 feature_row_0:
+  - image_path: /assets/images/dzr-logo.svg
+    image_caption: "Summer 2026-Present"
+    title: "Dropzone Robotics Internship"
+    excerpt: "[Dropzone Robotics](https://www.dropzonerobotics.com/) builds a wearable on-edge perception system for medical documentation in chaotic and harsh environments. I was brought on to own design and packaging of the hardware on which everything runs, with emphasis on component selection and thermal management through an active cooling system. "
+    url: "/roles/dropzone"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
   - image_path: /assets/images/triton-logo-rev.svg
     image_caption: "Summer 2024"
     title: "2024 Triton Robotics Internship"
@@ -34,7 +41,7 @@ feature_row_1:
   - image_path: /assets/images/display-finished.png
     image_caption: "Spring 2025"
     title: "Rover Display Platform"
-    excerpt: "Wisconsin Robotics decided to retire their long-serving rover at the end of the 2024 URC season to make way for a full redesign, so we got permission to display the old one in a corner of the ME building, for which I helped build a display platform."
+    excerpt: "Wisconsin Robotics decided to retire their long-serving rover at the end of the 2024 URC season to make way for a full redesign, so we got permission to display the old one in the ME building, for which I helped build a display platform."
     url: "/projects/platform"
     btn_label: "Read More"
     btn_class: "btn--warning"
