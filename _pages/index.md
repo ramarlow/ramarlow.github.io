@@ -1,5 +1,5 @@
 ---
-#title: 
+title: Hello
 layout: splash
 permalink: /
 header:
