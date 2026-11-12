@@ -28,7 +28,7 @@ ___
 * Designed, implemented, and validated a custom heatsink and field-deployable enclosure for wearable edge perception and compute, surpassing mass reduction goals by 36% for heatsink and 25% for full assembly
 * Owned design, documentation, and full system testing of hybrid soft/rigid mobile swarm robots for patient transport
 
-**Graduate Research Assistant**, [Mohala Lab @ UCLA](https://uwbadgerlab.engr.wisc.edu/){:target="_blank"}, Jan 2026 - Present
+**Graduate Research Assistant**, [Mohala Lab @ UCLA](https://www.mohalalab.org/){:target="_blank"}, Jan 2026 - Present
 * Conceptualized, prototyped, and characterized grasping behavior of growing underactuated soft pneumatic grippers
 * Investigated control strategies for soft legged locomotion by training reinforcement learning policies
 * Mentored 4 undergraduate students’ research projects, advising on design considerations and literature searches

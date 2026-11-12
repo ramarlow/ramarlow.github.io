@@ -1,5 +1,5 @@
 ---
-title: Mechanical Design Engineer Intern, Dropzone
+title: Mechanical Design Intern, Dropzone Robotics
 layout: single
 permalink: /roles/dropzone
 toc: false
