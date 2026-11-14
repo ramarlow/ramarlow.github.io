@@ -7,6 +7,7 @@ author_profile: true
 header:
     teaser: /assets/images/signal.jpg
 excerpt: "This project was originally the product of a semester-long design prompt to make something interesting using a microcontroller. It consists of some LEDs stuck to my hand that I can light up in different patterns to signal turns when bicycling at night."
+last_modified_at: 2025-1-18
 classes: wide
 gallery:
   - image_path: /assets/images/signal-parts.png

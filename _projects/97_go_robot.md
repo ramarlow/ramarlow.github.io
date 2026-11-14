@@ -7,9 +7,10 @@ author_profile: true
 header:
     teaser: /assets/images/go-robot.jpg
 excerpt: "As our Intro to Robotics final project, I worked with two classmates to build attachments and write control code allowing an off-the-shelf robotic arm to play the board game Go."
+last_modified_at: 2026-11-13
 classes: wide
 ---
-For the final project of the Introduction to Robotics course, our team of 3 decided to build a robot to play the board game Go. This was largely inpired by a shared enjoyment of board games, though none of us knew how to play Go specifically before starting. We had initially considered playing chess, but too many other groups had the same idea and grasping Go pieces seemed more predictable.
+For the final project of the Introduction to Robotics course, our team of 3 decided to build a robot to play the board game Go. This was largely inspired by a shared enjoyment of board games, though none of us knew how to play Go specifically before starting. We had initially considered playing chess, but too many other groups had the same idea and grasping Go pieces seemed more predictable.
 
 ![image-left](/assets/images/arm-gantry.png){: width="30%" .align-left}
 We started from a provided off-the-shelf 6-DoF robotic arm, which we suspended from a gantry to open up more of its workspace by allowing the robot to extend both forward and backward. The robot's joint arrangement meant that even though it could theoretically reach plenty far, doing so while maintaining our desired end effector orientation wasn't possible. 

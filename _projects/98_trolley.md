@@ -7,6 +7,7 @@ author_profile: true
 header:
     teaser: /assets/images/trolley.jpg
 excerpt: "The Intro to Mechanical Engineering course focused around building an obstacle-avoiding trolley using an Arduino and custom gearbox, and custom lightweight chassis."
+last_modified_at: 2025-1-18
 classes: wide
 ---
 The Intro to Mechanical Engineering course focused around building an obstacle-avoiding trolley using an Arduino and custom gearbox. Our group of 3 was worried about frictional losses in a multi-stage gearbox, so we opted for a single stage gearing with the pinion on the motor and the driven gear mounted directly on the wheel. Because one grading criteria was the trolley's ability to climb up a slope, we reduced component weight by strategically removing material from less crucial regions.

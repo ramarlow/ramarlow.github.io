@@ -7,6 +7,7 @@ author_profile: true
 header:
     teaser: /assets/images/battlebot.png
 excerpt: "As part of Wisconsin Robotics, the Outreach/Minibots subteam is working to make a set of child-safe nonlethal battlebots that engage in “sparring” by whacking each other with plastic squeaky hammers."
+last_modified_at: 2026-5-29
 classes: wide
 gallery:
   - image_path: /assets/images/battlebot-wiring.png

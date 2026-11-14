@@ -6,10 +6,11 @@ toc: false
 author_profile: true
 header:
     teaser: /assets/images/weeblebot.jpg
-excerpt: "I worked with a couple fellow undergrads in the BADGER Lab on the ongoing weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry."
+excerpt: "I worked with a couple fellow undergrads in the BADGER Lab on the ongoing Weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry."
+last_modified_at: 2026-11-13
 classes: wide
 ---
-I worked with a couple fellow undergrads in the BADGER Lab on the ongoing weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry. The extreme negative camber of the wheels results in a very large effective radius of curvature at the point of contact with the ground, allowing it to passively balance like a weeble.
+I worked with a couple fellow undergrads in the BADGER Lab on the ongoing Weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry. The extreme negative camber of the wheels results in a very large effective radius of curvature at the point of contact with the ground, allowing it to passively balance like a weeble.
 
 My first goal with Weeblebot was to resolve a versioning conflict between our Raspberry Pi (running Debian Buster to support ROS Noetic) and an incompatible Pi Camera v2, which would only work on a more recent Debian version. An attempt to upgrade the Debian version had broken the ROS installation, so I learned how to implement a Docker container for ROS to run inside. I tinkered with a couple candidate images before settling on one and writing some shell scripts to automatically rebuild our catkin workspace on startup.
 

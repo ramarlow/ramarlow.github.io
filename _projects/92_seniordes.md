@@ -7,6 +7,7 @@ author_profile: true
 header:
     teaser: /assets/images/drill-brushless.jpg
 excerpt: "For our capstone design project, some robotics teammates and I have been designing the soil extraction and testing capabilities for a competitive mock-Mars rover."
+last_modified_at: 2026-6-1
 classes: wide
 gallery:
   - image_path: /assets/images/drill-v1.jpg

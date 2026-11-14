@@ -7,6 +7,7 @@ author_profile: true
 header:
     teaser: /assets/images/cart-bucky.jpg
 excerpt: "A teammate and I thought it'd be fun to build our own take on a classic William Osman video by attaching hoverboard hub motors to a (legally acquired) shopping cart."
+last_modified_at: 2026-6-1
 classes: wide
 gallery:
   - image_path: /assets/images/cart-wheel-cad.jpg
