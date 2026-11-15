@@ -24,53 +24,53 @@ Bachelor of Science, Mechanical Engineering, May 2025
 ### **Experience**
 ___
 [**Dropzone Robotics**](https://dropzonerobotics.com/){:target="_blank"}, Pasadena, CA<br />
-[Mechanical Design Intern (Part Time)](/roles/dropzone), Sep 2026 - Present
+[*Mechanical Design Intern (Part Time)*](/roles/dropzone), Sep 2026 - Present
 * Prepared feasibility, risk, and failure mode analyses for phase I and II SBIR/STTR contracts and new proposals
 * Owned electromechanical design, documentation, and system testing of mobile swarm robots for patient transport
 
-[Mechanical Design Intern](/roles/dropzone), Jun 2026 - Sep 2026
+[*Mechanical Design Intern*](/roles/dropzone), Jun 2026 - Sep 2026
 * Mapped and resolved hardware tradeoffs of 47 component options across 6 categories for SWaP-C optimization
 * Designed, implemented, and verified a custom active heatsink and field-deployable enclosure for wearable edge perception and compute, surpassing mass reduction goals by 36% for heatsink and 25% for full assembly
 * Collaborated with industrial design team to deliver showcase-ready prototypes 2 weeks ahead of schedule
 
 [**<abbr title="Mechatronics for Outreach, Haptics, Agriculture, and Living Applications">Mohala</abbr> Lab @ UCLA**](https://www.mohalalab.org/){:target="_blank"}, Los Angeles, CA<br />
-Graduate Research Assistant, Jan 2026 - Present
+*Graduate Research Assistant*, Jan 2026 - Present
 * Conceptualized, prototyped, and characterized grasping behavior of growing underactuated soft pneumatic grippers
 * Investigated control strategies for soft legged locomotion by training reinforcement learning policies
 * Mentored 4 undergraduate students’ research projects, advising on design considerations and literature searches
 
 [**UW <abbr title="Biomechatronics, Assistive Devices, Gait Engineering and Rehabilitation">BADGER</abbr> Lab**](https://uwbadgerlab.engr.wisc.edu/){:target="_blank"}, Madison, WI<br />
-[Undergraduate Research Assistant](/projects/weeblebot), Jan 2024 - May 2025
+[*Undergraduate Research Assistant*](/projects/weeblebot), Jan 2024 - May 2025
 * Wrote and maintained ROS/ROS2 nodes for teleoperation and state estimation of a passively stable mobile robot
 * Researched and implemented docker images to circumvent versioning conflicts and manage dependencies
 * Presented underlying kinematic principles and represented the lab at local engineering outreach events
 
 [**Triton Robotic Endoscopy**](https://tritonroboticendoscopy.com/){:target="_blank"}, Burlingame, CA<br />
-[Product Development Engineer Intern](/roles/triton24), May - August 2024
+[*Product Development Engineer Intern*](/roles/triton24), May - August 2024
 * Doubled device verification testing capacity by duplicating and improving fixtures for 5+ test methods 
 * Developed Python tools to parse rosbag telemetry from physician/internal lab sessions and extract robot driving metrics, informing cyclic durability test protocols for endoscopes and capital equipment
 * Drafted/updated process instructions, designed cleanroom fixtures, and investigated failed units to raise yield by 8%
 * Performed tolerance stack-up analysis of the endoscope assembly to set part length specs, using historical manufacturing data to identify operator trends, define an achievable length range, and estimate yield impact 
 
-[Engineering Intern](/roles/triton23), May - August 2023
+[*Engineering Intern*](/roles/triton23), May - August 2023
 * Introduced and verified test methods using statistical analysis of new and historical data for catheter subassemblies
 * Designed high-throughput, non-destructive stiffness test fixtures and ran 2000+ trials to measure climate-controlled behavior of composite endoscope components, decreasing cycle time by ~40% (2 min)
 * Originated product demonstration tools for compact pneumatic control, achieving long-term adoption by leadership
 
 ### **Projects**
 ___
-[**Mars Rover Science Payload**](/projects/seniordes), Capstone Design for [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}
+[**Mars Rover Science Payload**](/projects/seniordes), *Capstone Design for [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}*
 * Built and iterated a remotely operated soil auger for mobile subsurface sampling in the University Rover Challenge
 * Established, met, and validated weight, power, and space constraints based on competition rules and client input
 * Conducted literature reviews and prototype testing to inform auger geometry and motor performance requirements
 * Coordinated across 4 teams to plan modular electromechanical integration with other science subsystems and rover
 
-[**Robotic Arm Project**](/projects/arm), [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}
+[**Robotic Arm Project**](/projects/arm), *[Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}*
 * Collaborated on an interdisciplinary team to prototype a humanoid 3-dof robotic arm for community outreach events
 * Incorporated PID control of joint position and wrote inverse kinematics algorithms for intuitive manipulation
 * Redesigned motorized joints to cut backlash by 50% and ease motor loads by increasing stiffness while saving mass
 
-[**Lighted Turn Signal Glove Project**](/projects/signal), UW MadMakers
+[**Lighted Turn Signal Glove Project**](/projects/signal), *UW MadMakers*
 * Developed a wearable device to help improve visibility and communication when bicycling at night
 * Implemented simple gesture and orientation recognition using an IMU sensor and ESP32 microcontroller 
 * Architected and built a custom PCB to hold LEDs, battery charging, ESP32, IMU, and UART/SPI connections
