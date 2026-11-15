@@ -1,13 +1,13 @@
 ---
-title: Engineering Intern, Triton Medical Robotics
+title: Engineering Intern, Triton Robotic Endoscopy
 layout: single
 permalink: /roles/triton23
 toc: false
 author_profile: true
 header:
     teaser: /assets/images/triton.svg
-excerpt: "[Triton](https://tritonrobotics.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters."
-last_modified_at: 2026-11-13
+excerpt: "[Triton](https://tritonroboticendoscopy.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters."
+last_modified_at: 2026-11-15
 classes: wide
 gallery:
   - image_path: /assets/images/fixture-cad.png
@@ -15,7 +15,7 @@ gallery:
   - image_path: /assets/images/fixture-real.png
     alt: "Photo of the constructed test fixture"
 ---
-[Triton](https://tritonrobotics.com/){:target="_blank"}, a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/){:target="_blank"}. I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters. 
+[Triton](https://tritonroboticendoscopy.com/){:target="_blank"}, a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/){:target="_blank"}. I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters. 
 
 While working at Triton, my biggest project was updating the test fixturing and methods used to measure and compare the stiffness of endoscopes. The main design goals were to avoid damaging the test samples, incorporate a water bath for climate-controlled submerged testing, and streamline data gathering and processing to enable faster design iteration. The new fixture has differently shaped jaws to reduce pinching damage, linear rails for repeatable positioning, and a tub to allow wet and dry testing. 
 {% include gallery caption="The CAD model of the new fixture and the final result" %}

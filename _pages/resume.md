@@ -45,7 +45,7 @@ Graduate Research Assistant, Jan 2026 - Present
 * Researched and implemented docker images to circumvent versioning conflicts and manage dependencies
 * Presented underlying kinematic principles and represented the lab at local engineering outreach events
 
-[**Triton Medical Robotics**](https://tritonrobotics.com){:target="_blank"}, Burlingame, CA<br />
+[**Triton Robotic Endoscopy**](https://tritonroboticendoscopy.com/){:target="_blank"}, Burlingame, CA<br />
 [Product Development Engineer Intern](/roles/triton24), May - August 2024
 * Doubled device verification testing capacity by duplicating and improving fixtures for 5+ test methods 
 * Developed Python tools to parse rosbag telemetry from physician/internal lab sessions and extract robot driving metrics, informing cyclic durability test protocols for endoscopes and capital equipment

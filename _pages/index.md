@@ -25,14 +25,14 @@ feature_row_0:
   - image_path: /assets/images/triton-logo-rev.svg
     image_caption: "Summer 2024"
     title: "2024 Triton Robotics Internship"
-    excerpt: "I had a really fun time returning to [Triton](https://tritonrobotics.com/) in the summer of 2024 as an intern. I rejoined the endoscopy team to do a bunch of device durability testing, improve and expand testing capabilities, support manufacturing and documentation efforts, and also wrote a tool for analyzing roslogs of robot telemetry."
+    excerpt: "I had a really fun time returning to [Triton](https://tritonroboticendoscopy.com/) in the summer of 2024 as an intern. I rejoined the endoscopy team to do a bunch of device durability testing, improve and expand testing capabilities, support manufacturing and documentation efforts, and also wrote a tool for analyzing roslogs of robot telemetry."
     url: "/roles/triton24"
     btn_label: "Read More"
     btn_class: "btn--warning"
   - image_path: /assets/images/triton.svg
     image_caption: "Summer 2023"
     title: "2023 Triton Robotics Internship"
-    excerpt: "[Triton](https://tritonrobotics.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters."
+    excerpt: "[Triton](https://tritonroboticendoscopy.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters."
     url: "/roles/triton23"
     btn_label: "Read More"
     btn_class: "btn--warning"
