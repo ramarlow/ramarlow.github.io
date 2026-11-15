@@ -4,6 +4,7 @@ layout: single
 permalink: /resume
 toc: false
 author_profile: true
+last_modified_at: 2026-11-15
 classes: wide
 ---
 This page has a lot of links. The [pdf](assets/R%20Marlow%20Resume%20F26.pdf){:target="_blank"} version might be easier to print or parse.
@@ -22,40 +23,47 @@ Bachelor of Science, Mechanical Engineering, May 2025
 
 ### **Experience**
 ___
-[**Mechanical Design Intern**](/roles/dropzone), [Dropzone Robotics](https://dropzonerobotics.com/){:target="_blank"}, Jun 2026 - Present
-* Mapped and resolved hardware tradeoffs for 47 component options across 6 sensing and processing needs
-* Supported phase I and II SBIR/STTR contracts and new proposals with feasibility, risk, and failure mode analyses
-* Designed, implemented, and validated a custom heatsink and field-deployable enclosure for wearable edge perception and compute, surpassing mass reduction goals by 36% for heatsink and 25% for full assembly
-* Owned design, documentation, and full system testing of hybrid soft/rigid mobile swarm robots for patient transport
+[**Dropzone Robotics**](https://dropzonerobotics.com/){:target="_blank"}, Pasadena, CA<br />
+[Mechanical Design Intern (Part Time)](/roles/dropzone), Sep 2026 - Present
+* Prepared feasibility, risk, and failure mode analyses for phase I and II SBIR/STTR contracts and new proposals
+* Owned electromechanical design, documentation, and system testing of mobile swarm robots for patient transport
 
-**Graduate Research Assistant**, [Mohala Lab @ UCLA](https://www.mohalalab.org/){:target="_blank"}, Jan 2026 - Present
+[Mechanical Design Intern](/roles/dropzone), Jun 2026 - Sep 2026
+* Mapped and resolved hardware tradeoffs of 47 component options across 6 categories for SWaP-C optimization
+* Designed, implemented, and verified a custom active heatsink and field-deployable enclosure for wearable edge perception and compute, surpassing mass reduction goals by 36% for heatsink and 25% for full assembly
+* Collaborated with industrial design team to deliver showcase-ready prototypes 2 weeks ahead of schedule
+
+[**<abbr title="Mechatronics for Outreach, Haptics, Agriculture, and Living Applications">Mohala</abbr> Lab @ UCLA**](https://www.mohalalab.org/){:target="_blank"}, Los Angeles, CA<br />
+Graduate Research Assistant, Jan 2026 - Present
 * Conceptualized, prototyped, and characterized grasping behavior of growing underactuated soft pneumatic grippers
 * Investigated control strategies for soft legged locomotion by training reinforcement learning policies
 * Mentored 4 undergraduate students’ research projects, advising on design considerations and literature searches
 
-[**Undergraduate Research Assistant**](/projects/weeblebot), [UW-Madison BADGER Lab](https://uwbadgerlab.engr.wisc.edu/){:target="_blank"}, Jan 2024 - May 2025
+[**UW <abbr title="Biomechatronics, Assistive Devices, Gait Engineering and Rehabilitation">BADGER</abbr> Lab**](https://uwbadgerlab.engr.wisc.edu/){:target="_blank"}, Madison, WI<br />
+[Undergraduate Research Assistant](/projects/weeblebot), Jan 2024 - May 2025
 * Wrote and maintained ROS/ROS2 nodes for teleoperation and state estimation of a passively stable mobile robot
 * Researched and implemented docker images to circumvent versioning conflicts and manage dependencies
 * Presented underlying kinematic principles and represented the lab at local engineering outreach events
 
-[**Product Development Engineer Intern**](/roles/triton24), [Triton Medical Robotics](https://tritonrobotics.com){:target="_blank"}, May - August 2024
-* Doubled device verification testing capacity by duplicating and improving fixtures for 5+ test methods
-* Developed Python scripts to compile and analyze robot telemetry data from rosbags, extracting driving statistics from physician labs to underpin endoscope and capital equipment cyclic durability V&V test protocols
-* Advanced manufacturing capabilities by designing and implementing assembly line fixtures, drafting and updating process instructions, and investigating rejected builds to raise yields, identify training gaps, and inform specs
-* Built upon previous summer’s successful equipment by implementing fault-tolerant design and assembling new units
+[**Triton Medical Robotics**](https://tritonrobotics.com){:target="_blank"}, Burlingame, CA<br />
+[Product Development Engineer Intern](/roles/triton24), May - August 2024
+* Doubled device verification testing capacity by duplicating and improving fixtures for 5+ test methods 
+* Developed Python tools to parse rosbag telemetry from physician/internal lab sessions and extract robot driving metrics, informing cyclic durability test protocols for endoscopes and capital equipment
+* Drafted/updated process instructions, designed cleanroom fixtures, and investigated failed units to raise yield by 8%
+* Performed tolerance stack-up analysis of the endoscope assembly to set part length specs, using historical manufacturing data to identify operator trends, define an achievable length range, and estimate yield impact 
 
-[**Engineering Intern**](/roles/triton23), [Triton Medical Robotics](https://tritonrobotics.com){:target="_blank"}, May - August 2023
-* Designed test fixtures and performed 2000+ trials to measure climate-controlled behavior of endoscope components
-* Introduced and validated test methods using statistical analysis of new and historical data for catheter subassemblies
-* Originated new product demonstration tools for compact pneumatic control, achieving long-term adoption
+[Engineering Intern](/roles/triton23), May - August 2023
+* Introduced and verified test methods using statistical analysis of new and historical data for catheter subassemblies
+* Designed high-throughput, non-destructive stiffness test fixtures and ran 2000+ trials to measure climate-controlled behavior of composite endoscope components, decreasing cycle time by ~40% (2 min)
+* Originated product demonstration tools for compact pneumatic control, achieving long-term adoption by leadership
 
 ### **Projects**
 ___
 [**Mars Rover Science Payload**](/projects/seniordes), Capstone Design for [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}
 * Built and iterated a remotely operated soil auger for mobile subsurface sampling in the University Rover Challenge
-* Established and met weight, power, and space constraints based on competition rules and client input
+* Established, met, and validated weight, power, and space constraints based on competition rules and client input
 * Conducted literature reviews and prototype testing to inform auger geometry and motor performance requirements
-* Coordinated across teams to plan modular electromechanical integration with other science subsystems and rover
+* Coordinated across 4 teams to plan modular electromechanical integration with other science subsystems and rover
 
 [**Robotic Arm Project**](/projects/arm), [Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}
 * Collaborated on an interdisciplinary team to prototype a humanoid 3-dof robotic arm for community outreach events
@@ -69,10 +77,10 @@ ___
 
 ### **Skills**
 ___
-**Software**:&ensp;&ensp;Solidworks, OnShape, Inventor, KiCad, Minitab, Excel, OpenSim, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, LaTeX<br />
+**Design/Analysis**:&ensp;&ensp;DFM, GD&T, FMEA, FEA, Electrical Schematics, PCB Design, Component Selection, Sheet Metal<br />
+**Software**:&ensp;&ensp;SolidWorks, Onshape, Inventor, KiCad, Minitab, Excel, LabVIEW, OpenSim, [EES](https://fchartsoftware.com/ees/){:target="_blank"}, LaTeX<br />
 **Programming**:&ensp;&ensp;Python, Matlab, Java, C++, R, Arduino, ROS, ROS2, Docker, Linux<br />
 **Tools**:&ensp;&ensp;Shop Machines, 3D Printing, Soldering, Oscilloscope, Welding, Metal Casting, Glassworking<br />
-**Design**:&ensp;&ensp;DFM, GD&T, FMEA, Electrical Schematics, PCB Design, Component Selection<br />
 **Foreign Languages**:&ensp;&ensp;Mandarin Chinese
 
 ### **Activities**
