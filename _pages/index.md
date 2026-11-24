@@ -18,21 +18,21 @@ feature_row_0:
   - image_path: /assets/images/dzr-logo.svg
     image_caption: "Summer 2026-Present"
     title: "Dropzone Robotics Internship"
-    excerpt: "[Dropzone Robotics](https://www.dropzonerobotics.com/) builds a wearable on-edge perception system for medical documentation in chaotic and harsh environments. I was brought on to own design and packaging of the hardware on which everything runs, with emphasis on component selection and thermal management through an active cooling system. "
+    excerpt: "[Dropzone Robotics](https://www.dropzonerobotics.com/) builds a wearable on-edge perception system for medical documentation in chaotic and harsh environments. I was brought on to own design and packaging of the hardware on which everything runs, with emphasis on component selection and thermal management through an active cooling system. `Thermal Management` `Electronics Enclosures` `Component Selection` `DFM` `Validation Testing` `SWaP-C Optimization`"
     url: "/roles/dropzone"
     btn_label: "Read More"
     btn_class: "btn--warning"
   - image_path: /assets/images/triton-logo-rev.svg
     image_caption: "Summer 2024"
     title: "2024 Triton Robotics Internship"
-    excerpt: "I had a really fun time returning to [Triton](https://tritonroboticendoscopy.com/) in the summer of 2024 as an intern. I rejoined the endoscopy team to do a bunch of device durability testing, improve and expand testing capabilities, support manufacturing and documentation efforts, and also wrote a tool for analyzing roslogs of robot telemetry."
+    excerpt: "I had a really fun time returning to [Triton](https://tritonroboticendoscopy.com/) in the summer of 2024 as an intern. I rejoined the endoscopy team to do a bunch of device durability testing, improve and expand testing capabilities, support manufacturing and documentation efforts, and also wrote a tool for analyzing roslogs of robot telemetry. `Stackup Analysis` `Process Documentation` `Data Analysis` `Cleanroom Fixturing` `GD&T` `CAD (SolidWorks)` `Minitab` `Python`"
     url: "/roles/triton24"
     btn_label: "Read More"
     btn_class: "btn--warning"
   - image_path: /assets/images/triton.svg
     image_caption: "Summer 2023"
     title: "2023 Triton Robotics Internship"
-    excerpt: "[Triton](https://tritonroboticendoscopy.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters."
+    excerpt: "[Triton](https://tritonroboticendoscopy.com/), a division of Neptune Medical, is working to make a robotically-controlled endoscope using Neptune's really cool [rigidizing technology](https://gipathfinder.com/technology/). I was lucky enough to work there over the summer of 2023, where I helped design and implement tests and equipment for use with flexible composite medical catheters. `Test Method Development` `Destructive/Nondestructive Testing` `Pneumatics` `Statistical Analysis` `CAD (SolidWorks)` `Python`"
     url: "/roles/triton23"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -41,7 +41,7 @@ feature_row_1:
   - image_path: /assets/images/display-finished.png
     image_caption: "Spring 2025"
     title: "Rover Display Platform"
-    excerpt: "Wisconsin Robotics decided to retire their long-serving rover at the end of the 2024 URC season to make way for a full redesign, so we got permission to display the old one in the ME building, for which I helped build a display platform."
+    excerpt: "Wisconsin Robotics decided to retire their long-serving rover at the end of the 2024 URC season to make way for a full redesign, so we got permission to display the old one in the ME building, for which I helped build a display platform. `CAD (SolidWorks, Onshape)` `Woodworking` `Laser Cutting` `Project Logistics`"
     url: "/projects/platform"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -49,7 +49,7 @@ feature_row_1:
   - image_path: /assets/images/cart-bucky.jpg
     image_caption: "Spring 2025"
     title: "Powered Shopping Cart"
-    excerpt: "A teammate and I thought it'd be fun to build our own take on a classic William Osman video by attaching hoverboard hub motors to a (legally acquired) shopping cart."
+    excerpt: "A teammate and I thought it'd be fun to build our own take on a classic William Osman video by attaching hoverboard hub motors to a (legally acquired) shopping cart. `BLDC Motor Control` `Waterjet Cutting` `FEA` `Electrical Safety` `CAD (Solidworks, Onshape)`"
     url: "/projects/cart"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -57,7 +57,7 @@ feature_row_1:
   - image_path: /assets/images/casting-landscape.jpg
     image_caption: "Fall 2024"
     title: "Brass Animal Castings"
-    excerpt: "My favorite project from UW's Engineering metal casting class was 3 replicas of an ancient Chinese wine vessel, which I cast in silicon brass using a lost PLA investment process."
+    excerpt: "My favorite project from UW's Engineering metal casting class was 3 replicas of an ancient Chinese wine vessel, which I cast in silicon brass using a lost PLA investment process. `Investment Casting` `DFM` `Mesh Sculpting` `Mold Design`"
     url: "/projects/casting"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -65,7 +65,7 @@ feature_row_1:
   - image_path: /assets/images/drill-brushless.jpg
     image_caption: "Fall 2024-Spring 2025"
     title: "Mars Rover Drill"
-    excerpt: "For our capstone design project, some robotics teammates and I have been designing the soil extraction and testing capabilities for a competitive mock-Mars rover."
+    excerpt: "For our capstone design project, some robotics teammates and I have been designing the soil extraction and testing capabilities for a competitive mock-Mars rover. `Requirements Development` `Motor Selection` `Reliability Testing` `Subsystem Integration` `CAD (SolidWorks)` `Iterative Prototyping` `Python`"
     url: "/projects/seniordes"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -73,7 +73,7 @@ feature_row_1:
   - image_path: /assets/images/weeblebot.jpg
     image_caption: "Spring 2024-2025"
     title: "Weeblebot"
-    excerpt: "I worked with a couple fellow undergrads in the BADGER Lab on the ongoing weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry."
+    excerpt: "I worked with a couple fellow undergrads in the BADGER Lab on the ongoing weeblebot project, a two-wheeled robot that balances passively from its unique drivetrain geometry. `ROS/ROS2` `Linux` `State Estimation` `Raspberry Pi` `Dynamic Systems` `Python`"
     url: "/projects/weeblebot"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -81,7 +81,7 @@ feature_row_1:
   - image_path: /assets/images/battlebot.png
     image_caption: "Spring 2023-2024"
     title: "Mini Battlebots"
-    excerpt: "As part of Wisconsin Robotics, the Outreach/Minibots subteam is working to make a set of child-safe nonlethal battlebots that engage in “sparring” by whacking each other with plastic squeaky hammers."
+    excerpt: "As part of Wisconsin Robotics, the Outreach/Minibots subteam is working to make a set of child-safe nonlethal battlebots that engage in “sparring” by whacking each other with plastic squeaky hammers. `Project Management` `PCB Design (EasyEDA)` `Laser Cutting` `FDM Printing` `STEM Education` `C++`"
     url: "/projects/battlebots"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -89,7 +89,7 @@ feature_row_1:
   - image_path: /assets/images/arm.png
     image_caption: "Fall 2021-2022"
     title: "Humanoid Robotic Arm"
-    excerpt: "Also as part of Wisconsin Robotics, this project's goal was mostly to move around, interact with people or objects, and look cool."
+    excerpt: "Also as part of Wisconsin Robotics, this project's goal was mostly to move around, interact with people or objects, and look cool. `PID Control` `CAD (Inventor, Onshape)` `Design Iteration` `Inverse Kinematics` `Joint Design` `STEM Education` `Python/C++`"
     url: "/projects/arm"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -97,7 +97,7 @@ feature_row_1:
   - image_path: /assets/images/signal.jpg
     image_caption: "Fall 2021-2023"
     title: "Turn Signal Light"
-    excerpt: "This project was originally the product of a semester-long design prompt to make something interesting using a microcontroller. It consists of some LEDs stuck to my hand that I can light up in different patterns to signal turns when bicycling at night."
+    excerpt: "This project was originally the product of a semester-long design prompt to make something interesting using a microcontroller. It consists of some LEDs stuck to my hand that I can light up in different patterns to signal turns when bicycling at night. `PCB Design (KiCAD)` `SLA Printing` `IC Communication (I2C, SPI, UART)` `Soldering` `Electrical Debugging` `C++`"
     url: "/projects/signal"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -105,7 +105,7 @@ feature_row_1:
   - image_path: /assets/images/go-robot.jpg
     image_caption: "Fall 2023"
     title: "Go Playing Robot"
-    excerpt: "As our Intro to Robotics final project, I worked with two classmates to build attachments and write control code allowing an off-the-shelf robotic arm to play the board game Go."
+    excerpt: "As our Intro to Robotics final project, I worked with two classmates to build attachments and write control code allowing an off-the-shelf robotic arm to play the board game Go. `ROS` `Linux` `Inverse Kinematics` `Motion Planning` `Mechatronics` `Python`"
     url: "/projects/go-robot"
     btn_label: "Read More"
     btn_class: "btn--warning"
@@ -113,7 +113,7 @@ feature_row_1:
   - image_path: /assets/images/trolley.jpg
     image_caption: "Fall 2021"
     title: "Autonomous Trolley"
-    excerpt: "The Intro to Mechanical Engineering course focused around building an obstacle-avoiding trolley using an Arduino and custom gearbox, and custom lightweight chassis."
+    excerpt: "The Intro to Mechanical Engineering course focused around building an obstacle-avoiding trolley using an Arduino and custom gearbox, and custom lightweight chassis. `Prototyping` `CAD (SolidWorks)` `Circuit Design` `Signal Processing` `Arduino` `C++`"
     url: "/projects/trolley"
     btn_label: "Read More"
     btn_class: "btn--warning"

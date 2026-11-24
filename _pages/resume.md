@@ -85,8 +85,8 @@ ___
 
 ### **Activities**
 ___
-**[ASME X1 Robotics](https://www.asmebruins.com/x1){:target="_blank"}** (Power Systems Member), UCLA, 2025-2026<br />
-**[Silicon Valley Bicycle Exchange](https://bikex.org){:target="_blank"}** [Volunteer Mechanic/Mentor](/roles/bikex), 2022-Present<br />
-**[Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}** (Outreach Subteam Lead, Mechanical Advisor), UW-Madison, 2021-2025<br />
-**UW MadMakers**, UW-Madison, 2021-2022<br />
-**FTC Robotics**, Team 14078, 2018-2021<br />
+**[ASME X1 Robotics](https://www.asmebruins.com/x1){:target="_blank"}** (Power Systems Member), UCLA, 2025 - 2026<br />
+**[Silicon Valley Bicycle Exchange](https://bikex.org){:target="_blank"}** [Volunteer Mechanic/Mentor](/roles/bikex), 2022 - Present<br />
+**[Wisconsin Robotics](https://www.wisconsinrobotics.org){:target="_blank"}** (Outreach Subteam Lead, Mechanical Advisor), UW-Madison, 2021 - 2025<br />
+**UW MadMakers**, UW-Madison, 2021 - 2022<br />
+**FTC Robotics**, Team 14078, 2018 - 2021<br />
