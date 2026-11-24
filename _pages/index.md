@@ -38,6 +38,22 @@ feature_row_0:
     btn_class: "btn--warning"
 feature_row_1:
 
+  - image_path: /assets/images/5bar-complete.jpg
+    image_caption: "Spring 2026"
+    title: "Planar Haptic Interface"
+    excerpt: "For the final project in our robot controls class, 3 teammates and I built and programmed a haptic interface for rendering force feedback based on a 5-bar parallel linkage. `Differential Kinematics` `Impedance Control` `Controller Tuning` `Dynamixel Motors`"
+    url: "/projects/5bar"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
+
+  - image_path: /assets/images/b3-finished.jpg
+    image_caption: "Fall 2025-Spring 2026"
+    title: "Legally Distinct Sphere Robot"
+    excerpt: "The ASME club at UCLA does a bunch of fun projects every year, one of which was a non-copyright-specific spherical robot with a dome shaped head. I joined the power systems team and helped out designing and building the electronics inside the body and head. `Power Management` `Motor Selection` `Mechatronics`"
+    url: "/projects/b3"
+    btn_label: "Read More"
+    btn_class: "btn--warning"
+
   - image_path: /assets/images/display-finished.png
     image_caption: "Spring 2025"
     title: "Rover Display Platform"
