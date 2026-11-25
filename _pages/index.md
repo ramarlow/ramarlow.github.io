@@ -126,7 +126,7 @@ feature_row_1:
     btn_label: "Read More"
     btn_class: "btn--warning"
 
-  - image_path: /assets/images/arm.png
+  - image_path: /assets/images/arm-collage.png
     image_caption: "Fall 2021-2022"
     title: "Humanoid Robotic Arm"
     excerpt: "Also as part of Wisconsin Robotics, this project's goal was mostly to move around, interact with people or objects, and look cool. `PID Control` `Inverse Kinematics` `Joint Design` `ESP32` `STEM Outreach`"

@@ -5,7 +5,7 @@ permalink: /projects/arm
 toc: false
 author_profile: true
 header:
-    teaser: /assets/images/arm.png
+    teaser: /assets/images/arm-collage.png
 excerpt: "Also as part of Wisconsin Robotics, this project’s goal was mostly to move around, interact with people or objects, and look cool."
 last_modified_at: 2026-5-29
 classes: wide
